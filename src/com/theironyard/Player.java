@@ -62,7 +62,7 @@ public class Player extends Character {
             System.out.printf("You now have %s items!\n", items.size());
         }
         else {
-            System.out.println("You have passed over the armor!");
+            System.out.println("You have passed over the item!");
         }
     }
 }
